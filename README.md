@@ -3,11 +3,17 @@
 A modern, responsive admin dashboard built for professional data visualization and management with smooth animations and an intuitive user experience.
 
 🛠️ Tech Stack
+
 ⚛️ React 18 - Modern UI library with hooks
+
 🔷 TypeScript - Type-safe development
+
 ⚡ Vite - Lightning-fast build tool
+
 🎨 Tailwind CSS - Utility-first styling
+
 🎭 Framer Motion - Smooth animations & transitions
+
 📊 Recharts - Professional chart library
 🧩 Shadcn/UI - High-quality component library
 🧭 React Router - Client-side routing
@@ -36,7 +42,9 @@ A modern, responsive admin dashboard built for professional data visualization a
 │   ├── 🔄 RecentActivity.tsx (Activity feed)
 │   └── ⏳ LoadingSpinner.tsx (Loading state)
 └── 🎨 ui/ (Shadcn components)
+
 ✨ Key Features
+
 📱 Responsive Design - Mobile-first approach
 🎭 Smooth Animations - Framer Motion transitions
 🔄 Lazy Loading - Performance optimized
@@ -67,6 +75,7 @@ A modern, responsive admin dashboard built for professional data visualization a
 ⚙️ Settings Page
 
 👤 Profile management
+
 🔔 Notification preferences
 🔐 Security settings
 🎨 Appearance controls
